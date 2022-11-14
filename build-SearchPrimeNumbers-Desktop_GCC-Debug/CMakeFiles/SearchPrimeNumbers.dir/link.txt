@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/SearchPrimeNumbers.dir/main.cpp.o -o SearchPrimeNumbers 
