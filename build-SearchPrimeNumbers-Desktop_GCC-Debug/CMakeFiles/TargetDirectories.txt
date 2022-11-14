@@ -1,3 +1,0 @@
-/home/user/TestTasks/build-SearchPrimeNumbers-Desktop_GCC-Debug/CMakeFiles/SearchPrimeNumbers.dir
-/home/user/TestTasks/build-SearchPrimeNumbers-Desktop_GCC-Debug/CMakeFiles/edit_cache.dir
-/home/user/TestTasks/build-SearchPrimeNumbers-Desktop_GCC-Debug/CMakeFiles/rebuild_cache.dir
